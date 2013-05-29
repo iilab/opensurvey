@@ -1,4 +1,6 @@
 opensurvey
 ==========
 
-A survey platform built with incentivisation in mind.
+A survey platform developed to help incentivise users by:
+ - breaking down large surveys in smaller survey series
+ - producing automatic reports for respondents
